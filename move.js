@@ -62,7 +62,7 @@
    */
 
   move.defaults = {
-    duration: 500
+    duration: 1500
   };
 
   /**
