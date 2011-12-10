@@ -1,4 +1,3 @@
-
 /*!
  * move
  * Copyright(c) 2011 TJ Holowaychuk <tj@vision-media.ca>
@@ -621,7 +620,7 @@
     }
 
     // transition properties
-    this.setVendorProperty('transition-property', this._transitionProps.join(', '));
+    //this.setVendorProperty('transition-property', this._transitionProps.join(', '));
     this.applyProperties();
 
     // callback given
